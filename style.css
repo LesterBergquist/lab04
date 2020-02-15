@@ -1,10 +1,13 @@
-<!DOCTYPE html>
 <html>
-    <head>
+    <div>
+        <header>Ice Cream in Van!</header>
+        <head>
         <title>Ice Cream in Van</title>
-        <link href="style.css" type="text/css"
-        rel="stylesheet" />
-    </head>
+     
+        <h2 style="color:blueviolet">Ice Cream again</h2>
+        </head>
+    </div>
+
     <body>
         <h1><a href ="https://megumi9813.github.io/Lad04/">How to make</a></h1>
         <h1><a href ="https://gnewsome0408.github.io/Lab04/Home.html">Find</a></h1>
@@ -13,5 +16,6 @@
         <p>Ice Cream in Van is where to come to get ice cream-related information! Check out our recipes and find out the best ice cream near you, right now!</p>
         <h2>About us</h2>
         <p>Ice cream in Van is written by Megumi, Geoff and Lester, students in Vancouver Coding School's Code 102 class.</p>
+
     </body>
 </html>
