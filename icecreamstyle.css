@@ -1,0 +1,71 @@
+header {
+    background-color: rgb(112, 151, 189);
+    margin: 0;
+    padding: 20px;
+    color: rgb(114, 56, 180);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+span {
+    text-decoration: ;
+}
+
+nav {
+    padding: 20px;
+    width: 35%;
+    background-color: rgb(226, 215, 210);
+}
+
+main {
+    display: inline-flex;
+}
+
+
+img {
+    width: 35%;
+}
+
+.ice-cream {
+    display: inherit;
+
+    background: rgb(94, 99, 168);
+}
+
+p {
+    padding: 20px;
+    ;
+}
+
+body {
+
+    margin: auto;
+    margin-top: -20px;
+    padding: 0;
+
+}
+
+div {
+    margin: 0;
+    padding: 0;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(122, 92, 7);
+}
+
+ul {
+    list-style: none;
+}
+
+a:link {
+    color: rgb(245, 206, 147);
+}
+
+li {
+    margin-bottom: 10px;
+    background: rgb(212, 211, 218);
+    padding: 5px;
+    border-radius: 5px;
+    ;
